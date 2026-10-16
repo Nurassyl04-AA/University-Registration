@@ -1,5 +1,3 @@
-package com.university.domain.subsystemA;
-
 import java.nio.file.*;
 import java.io.*;
 import java.util.*;
